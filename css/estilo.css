@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+}
+/*.dombrerote{
+    position: relative;
+}*/
+.sombrero1{
+    background-color: blueviolet;
+    width: 300px;
+    height: 70px;
+    position: relative;
+    top: 80px;
+    left: 200px;
+}
+.sombrero2{
+    background-color: blueviolet;
+    width: 500px;
+    height: 100px;
+    border-radius:100% ;
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+.cara{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    position: relative;
+    top: 30px;
+    left: 140px;
+}
+.hojos{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
+.pupila1{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: relative;
+    top: 30px;
+    left: 25px;
+}
+.hojos2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 70px;
+    left: 220px;
+}
+.pupila2{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: relative;
+    top: 30px;
+    left: 25px; 
+}
+.boca{
+    background-color: yellow;
+    width: 200px;
+    height: 70px;
+    border-radius: 100%;
+    position: relative;
+    top: 250px;
+    left: 100px;
+}
+.boca2{
+    background-color: black;
+    width: 100px;
+    height: 34px;
+    border-radius: 100%;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+.monio{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 270px;
+    left: 150px;
+}
+.bola1{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}
+.bola2{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    border-radius: 100%;
+    position: fixed;
+    top: 570px;
+    left: 110px;
+
+}
